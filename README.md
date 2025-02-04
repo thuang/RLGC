@@ -132,5 +132,5 @@ If you use this code please cite it as:
 
 If you spot a bug or have a problem running the code, please open an issue.
 
-Please direct other correspondence to Qiuhua Huang: qiuhua DOT huang AT pnnl DOT gov
+Please direct other correspondence to Qiuhua Huang: qiuhuahuang AT mines dot edu
 
